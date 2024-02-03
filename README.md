@@ -11,16 +11,12 @@ A simple note app developed with Swift UIKit. It allows users to create, edit, a
 
 ## Screenshots
 
-<img src="https://github.com/mertplt/NoteApp/assets/89026277/a9705dbc-d9dc-4204-b49e-012936efb48a" width="24%" />
-<img src="https://github.com/mertplt/NoteApp/assets/89026277/6d2b3ae2-b68b-495c-8b5a-ea77e3def312" width="24%" />
-<img src="https://github.com/mertplt/NoteApp/assets/89026277/53181dbc-df0d-4dbd-9604-356c0680b262" width="24%" />
-<img src="https://github.com/mertplt/NoteApp/assets/89026277/3b6cc693-50a4-4c6a-8516-3dbd06195e92" width="24%" />
-<img src="https://github.com/mertplt/NoteApp/assets/89026277/43347497-89d0-4b43-95b8-1a80dc33d260" width="24%" />
-<img src="https://github.com/mertplt/NoteApp/assets/89026277/0329d34a-b01d-41a8-9942-b14a0b6f122f" width="24%" />
-<img src="https://github.com/mertplt/NoteApp/assets/89026277/693d0d3f-6bc4-43a4-89f2-2016d777ba6f" width="24%" />
-<img src="https://github.com/mertplt/NoteApp/assets/89026277/f25750ac-af01-47e0-b9c5-897810071bbd" width="24%" />
-
-
+<img src="https://github.com/mertplt/NoteApp/assets/89026277/a753f14d-3401-441b-944e-5d07a121ac34" width="100%" />
+<img src="https://github.com/mertplt/NoteApp/assets/89026277/74c11651-fa69-4de5-92e7-f8fc1a8a14cd" width="100%"/>
+<img src="https://github.com/mertplt/NoteApp/assets/89026277/0579fda7-1744-4f54-a992-1fe9191e9d8a" width="100%" />
+<img src="https://github.com/mertplt/NoteApp/assets/89026277/eb05cbaa-4833-437b-8781-9879558f0089" width="100%" />
+<img src="https://github.com/mertplt/NoteApp/assets/89026277/ece6441c-e35a-4429-a6a1-be09b525412f" width="100%" />
+<img src="[https://github.com/mertplt/NoteApp/assets/89026277/eb3239d1-2041-4a68-9283-9b5a527fd231" width="100%" />
 
 
 
@@ -34,4 +30,4 @@ API Integration: The application integrates with a backend API for data persiste
 
 
 ## Architecture
-Developed with MVVM-R
+NoteApp project is implemented using the Model-View-ViewModel (MVVM) architecture pattern.
